@@ -1,4 +1,4 @@
-pip install Streamlit==1.42.0
+
 
 import streamlit as st
 st.write("hello world!")
